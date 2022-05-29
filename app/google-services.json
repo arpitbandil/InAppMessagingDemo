@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "814745263938",
+    "project_id": "inappmessagingdemo-fc17c",
+    "storage_bucket": "inappmessagingdemo-fc17c.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:814745263938:android:f6555a192d6e925080b2db",
+        "android_client_info": {
+          "package_name": "com.demo.inappmessagingdemo"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "814745263938-vuvblt92trbp2gh9giq9ia990j3ihg23.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCv0kJ7C4w52iauOFzrYwRJYaErrDt9RLI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "814745263938-vuvblt92trbp2gh9giq9ia990j3ihg23.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
